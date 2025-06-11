@@ -5,7 +5,7 @@ This lab focuses on fundamental data preprocessing techniques using Python. You'
 
 ---
 
-##  Sections Covered
+##  Sections Covered:
 
 ### 1. Data Tidying
 - Convert messy data to tidy format using `melt()` and `pivot_table()`
