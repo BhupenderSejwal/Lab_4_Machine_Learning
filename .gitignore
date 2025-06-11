@@ -1,4 +1,14 @@
+# Ignore Python environment files
 venv/
 __pycache__/
 *.pyc
+
+# Ignore system files
 .DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
